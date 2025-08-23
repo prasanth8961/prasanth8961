@@ -64,6 +64,6 @@
 |[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  | [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/your-handle)  |
 |------------------|--------------|
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel)](#)  
 
 ---
