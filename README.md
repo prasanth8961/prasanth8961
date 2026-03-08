@@ -4,4 +4,4 @@
 
 I build **scalable web applications**, explore **AI/ML**, and dive into **cybersecurity challenges**. Constantly learning and experimenting with new technologies to create impactful projects.  
 
-[![Portfolio]([https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel](https://portfoliov2-one-hazel.vercel.app/))](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel)](https://portfoliov2-one-hazel.vercel.app/)
